@@ -1,0 +1,19 @@
+[package]
+name = "rpure"
+version = "0.0.1"
+authors = ["nelson fernandez <g33k@netflux.com.ar>"]
+edition = "2018"
+description = "A simple bash prompt"
+homepage = "https://github.com/kascote/rpure"
+repository = "https://github.com/kascote/repure"
+readme = "./readme.md"
+keywords = ["shell", "prompt", "theme", "cli"]
+categories = ["command-line-interface", "command-line-utilities", "config"]
+license = "MIT"
+
+
+[dependencies]
+tico    = "2.0.0"
+libc    = "0.2.74"
+git2    = "0.13.8"
+colored = "2.0.0"
