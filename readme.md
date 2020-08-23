@@ -2,7 +2,7 @@
 
 > a simple prompt inspired by [pure](https://github.com/sindresorhus/pure)
 
-![rpure.png](/kascote/rpure/raw/master/screenshot.png)
+![rpure.png](https://github.com/kascote/rpure/raw/master/screenshot.png)
 
 
 `rpure` is based on code from ![pista](https://github.com/nerdypepper/pista). 
@@ -17,8 +17,8 @@ Why? Started as a Rust learning project.
  
 ### Readline
 
-The symbol (●) at the beginning of the 2nd line is the Readline vim state.
-To setup it need to put this lines on the file `.inputrc` on the home directory:
+The symbol (●) at the beginning of the 2nd line is the Readline vim state.  
+To setup it, need to put this lines on the file `.inputrc` on the home directory:
 
 ```
 set show-mode-in-prompt on
